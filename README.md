@@ -16,6 +16,7 @@
   - [2.3.4_AdalineSGD.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/2.3.4_AdalineSGD.ipynb)
 
 #### 3장 사이킷런을 타고 떠나는 머신 러닝 분류 모델 투어
+  - [3.2_Scikit-learn_Perceptron.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/3.2_Scikit-learn_Perceptron.ipynb)
 
 #### 4장 좋은 훈련 데이터셋 만들기: 데이터 전처리
 
