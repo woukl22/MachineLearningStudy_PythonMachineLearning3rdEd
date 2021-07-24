@@ -1,6 +1,14 @@
 # MachineLearningStudy_PythonMachineLearning3rdEd
 '머신러닝 교과서 with 파이썬, 사이킷런, 텐서플로 (개정 3판)' 책으로 공부
 
+
+<br>
+
+책
+-----
+**머신 러닝 교과서 with 파이썬, 사이킷런, 텐서플로** *(세바스찬 라시카, 바히드 미자리리 / 길벗)*<br>
+  <img src="https://user-images.githubusercontent.com/69896250/126332650-f41658e2-caf3-444d-8a58-575f383755ec.png" width="200px" height="290px"></img><br>
+<br>
 2021.07.20 ~
 
 <br>
@@ -10,6 +18,7 @@
 #### 1장 컴퓨터는 데이터에서 배운다
 
 #### 2장 간단한 분류 알고리즘 훈련
+  - [퍼셉트론 정리](https://blog.naver.com/woukl22/222442748137)
   - [2.2_Perceptron.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/2.2_Perceptron.ipynb)
   - [2.3.2_AdalineGD.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/2.3.2_AdalineGD.ipynb)
   - [2.3.3_Standardization.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/2.3.3_Standardization.ipynb)
@@ -17,6 +26,10 @@
 
 #### 3장 사이킷런을 타고 떠나는 머신 러닝 분류 모델 투어
   - [3.2_Scikit-learn_Perceptron.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/3.2_Scikit-learn_Perceptron.ipynb)
+  - [3.3.2_Sigmoid function graph.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/3.3.2_Sigmoid%20function%20graph.ipynb)
+  - [3.3.3_Logistic Regression_Cost function graph.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/3.3.3_Logistic%20Regression_Cost%20function%20graph.ipynb)
+  - [3.3.4_LogisticRegressionGD.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/3.3.4_LogisticRegressionGD.ipynb)
+  - [3.3.5_Scikit-learn_LogisticRegression.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/3.3.5_Scikit-learn_LogisticRegression.ipynb)
 
 #### 4장 좋은 훈련 데이터셋 만들기: 데이터 전처리
 
