@@ -31,6 +31,8 @@
   - [3.3.4_LogisticRegressionGD.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter3/3.3.4_LogisticRegressionGD.ipynb)
   - [3.3.5_Scikit-learn_LogisticRegression.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter3/3.3.5_Scikit-learn_LogisticRegression.ipynb)
   - [3.3.6_Regularization.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter3/3.3.6_Regularization.ipynb)
+  - [3.4_Support Vector Machine.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter3/3.4_Support%20Vector%20Machine.ipynb)
+  - [3.5_Kernel SVM.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter3/3.5_Kernel%20SVM.ipynb)
 
 #### 4장 좋은 훈련 데이터셋 만들기: 데이터 전처리
 
