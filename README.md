@@ -19,17 +19,18 @@
 
 #### 2장 간단한 분류 알고리즘 훈련
   - [퍼셉트론 정리](https://blog.naver.com/woukl22/222442748137)
-  - [2.2_Perceptron.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/2.2_Perceptron.ipynb)
-  - [2.3.2_AdalineGD.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/2.3.2_AdalineGD.ipynb)
-  - [2.3.3_Standardization.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/2.3.3_Standardization.ipynb)
-  - [2.3.4_AdalineSGD.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/2.3.4_AdalineSGD.ipynb)
+  - [2.2_Perceptron.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter2/2.2_Perceptron.ipynb)
+  - [2.3.2_AdalineGD.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter2/2.3.2_AdalineGD.ipynb)
+  - [2.3.3_Standardization.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter2/2.3.3_Standardization.ipynb)
+  - [2.3.4_AdalineSGD.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter2/2.3.4_AdalineSGD.ipynb)
 
 #### 3장 사이킷런을 타고 떠나는 머신 러닝 분류 모델 투어
-  - [3.2_Scikit-learn_Perceptron.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/3.2_Scikit-learn_Perceptron.ipynb)
-  - [3.3.2_Sigmoid function graph.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/3.3.2_Sigmoid%20function%20graph.ipynb)
-  - [3.3.3_Logistic Regression_Cost function graph.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/3.3.3_Logistic%20Regression_Cost%20function%20graph.ipynb)
-  - [3.3.4_LogisticRegressionGD.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/3.3.4_LogisticRegressionGD.ipynb)
-  - [3.3.5_Scikit-learn_LogisticRegression.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/3.3.5_Scikit-learn_LogisticRegression.ipynb)
+  - [3.2_Scikit-learn_Perceptron.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter3/3.2_Scikit-learn_Perceptron.ipynb)
+  - [3.3.2_Sigmoid function graph.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter3/3.3.2_Sigmoid%20function%20graph.ipynb)
+  - [3.3.3_Logistic Regression_Cost function graph.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter3/3.3.3_Logistic%20Regression_Cost%20function%20graph.ipynb)
+  - [3.3.4_LogisticRegressionGD.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter3/3.3.4_LogisticRegressionGD.ipynb)
+  - [3.3.5_Scikit-learn_LogisticRegression.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter3/3.3.5_Scikit-learn_LogisticRegression.ipynb)
+  - [3.3.6_Regularization.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter3/3.3.6_Regularization.ipynb)
 
 #### 4장 좋은 훈련 데이터셋 만들기: 데이터 전처리
 
