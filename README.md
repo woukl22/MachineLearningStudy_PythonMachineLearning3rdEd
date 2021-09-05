@@ -11,6 +11,7 @@
 <br>
 2021.07.20 ~
 
+*목표: 2021년 안에 끝내자!!!(2021.09.05)*
 <br>
 
 목차
@@ -39,6 +40,12 @@
   - [3.7_K-Nearest Neighbor.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter3/3.7_K-Nearest%20Neighbor.ipynb)
 
 #### 4장 좋은 훈련 데이터셋 만들기: 데이터 전처리
+  - [4.1_Missing data.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter4/4.1_Missing%20data.ipynb)
+  - [4.2_Categorical data.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter4/4.2_Categorical%20data.ipynb)
+  - [4.3_Data split.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter4/4.3_Data%20split.ipynb)
+  - [4.4_Data scaling.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter4/4.4_Data%20scaling.ipynb)
+  - [4.5_Feature selection.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter4/4.5_Feature%20selection.ipynb)
+  - [4.6_Random forest Feature Importance.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter4/4.6_Random%20forest%20Feature%20Importance.ipynb)
 
 #### 5장 차원 축소를 사용한 데이터 압축
 
