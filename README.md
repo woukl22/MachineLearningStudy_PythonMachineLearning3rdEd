@@ -48,6 +48,9 @@
   - [4.6_Random forest Feature Importance.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter4/4.6_Random%20forest%20Feature%20Importance.ipynb)
 
 #### 5장 차원 축소를 사용한 데이터 압축
+  - [5.1_Principal Component Analysis.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter5/5.1_Principal%20Component%20Analysis.ipynb)
+  - [5.2_Linear Discriminant Analysis.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter5/5.2_Linear%20Discriminant%20Analysis.ipynb)
+  - [5.3_Kernel PCA.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter5/5.3_Kernel%20PCA.ipynb)
 
 #### 6장 모델 평가와 하이퍼파라미터 튜닝의 모범 사례
 
