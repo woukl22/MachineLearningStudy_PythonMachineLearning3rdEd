@@ -11,7 +11,11 @@
 <br>
 2021.07.20 ~
 
-*목표: 2021년 안에 끝내자!!!(2021.09.05)*
+*목표: 2021년 안에 끝내자!!! (2021.09.05)*
+<br>
+
+*앱 개발 프로젝트에 참여하게 돼서 9월 27일부터 잠시 중단... 대략 12월 말에 끝날 예정 (2021.09.29)*
+
 <br>
 
 목차
@@ -53,6 +57,8 @@
   - [5.3_Kernel PCA.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter5/5.3_Kernel%20PCA.ipynb)
 
 #### 6장 모델 평가와 하이퍼파라미터 튜닝의 모범 사례
+  - [6.1_Pipeline.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter6/6.1_Pipeline.ipynb)
+  - [6.2_k-fold cross-validation.ipynb](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd/blob/main/Chapter6/6.2_k-fold%20cross-validation.ipynb)
 
 #### 7장 다양한 모델을 결합한 앙상블 학습
 
